@@ -1,0 +1,3 @@
+Company Code,Document Number,Fiscal Year,Posting Date,Account,Amount,Currency,Reference,Text
+1000,100000001,2026,11/09/2026,601000,150.00,USD,REF-0001,Gasto de ejemplo
+1000,100000001,2026,11/09/2026,100000,-150.00,USD,REF-0001,Pago de ejemplo
